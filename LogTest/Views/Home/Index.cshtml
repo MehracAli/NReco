@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+	<form action="@Url.Action("LogMessage", "Home")" target="submitResult" method="post">
+
+		<div class="form-control">
+			<div class="form-label">
+				LogLevel
+			</div>
+			<select name="logLevel">
+				<option value="Debug">Debug</option>
+				<option value="Information">Information</option>
+				<option value="Warning">Warning</option>
+			</select>
+		</div>
+		<div class="form-control">
+			<div class="form-label">
+				Message
+			</div>
+			<input type="text" name="msg" value="This is a log message!" />
+		</div>
+
+		<button type="submit">Add</button>
+	</form>
+</div>

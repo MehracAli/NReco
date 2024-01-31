@@ -1,0 +1,89 @@
+2024-01-31T03:09:43.5976956+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	This is a log message!
+2024-01-31T03:11:11.6254915+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	This is a log message!
+2024-01-31T03:11:22.3229939+04:00	WARN	[LogTest.Controllers.HomeController]	[0]	This is a log message3!
+2024-01-31T03:30:06.2227806+04:00	WARN	[LogTest.Controllers.HomeController]	[0]	Warning message!
+2024-01-31T03:30:36.6163558+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	Info message!
+2024-01-31T03:42:23.0098600+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	info message!
+2024-01-31T03:46:35.4537217+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: https://localhost:7229
+2024-01-31T03:46:35.4542579+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: http://localhost:5145
+2024-01-31T03:46:35.4554363+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-01-31T03:46:35.4555964+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-01-31T03:46:35.4556096+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: D:\TechNest\HomeWorks\LogTest\LogTest
+2024-01-31T03:46:43.7157452+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	inf message!
+2024-01-31T03:46:51.1052004+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: https://localhost:7229
+2024-01-31T03:46:51.1056671+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: http://localhost:5145
+2024-01-31T03:46:51.1068360+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-01-31T03:46:51.1069808+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-01-31T03:46:51.1069941+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: D:\TechNest\HomeWorks\LogTest\LogTest
+2024-01-31T03:47:06.9906470+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: https://localhost:7229
+2024-01-31T03:47:06.9911057+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: http://localhost:5145
+2024-01-31T03:47:06.9922685+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-01-31T03:47:06.9924146+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-01-31T03:47:06.9924292+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: D:\TechNest\HomeWorks\LogTest\LogTest
+2024-01-31T03:47:34.1322614+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: https://localhost:7229
+2024-01-31T03:47:34.1330376+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: http://localhost:5145
+2024-01-31T03:47:34.1347112+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-01-31T03:47:34.1349789+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-01-31T03:47:34.1350066+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: D:\TechNest\HomeWorks\LogTest\LogTest
+2024-01-31T03:47:53.8538042+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: https://localhost:7229
+2024-01-31T03:47:53.8542913+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: http://localhost:5145
+2024-01-31T03:47:53.8558796+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-01-31T03:47:53.8560618+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-01-31T03:47:53.8561033+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: D:\TechNest\HomeWorks\LogTest\LogTest
+2024-01-31T03:48:01.1698473+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: https://localhost:7229
+2024-01-31T03:48:01.1703643+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: http://localhost:5145
+2024-01-31T03:48:01.1715508+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-01-31T03:48:01.1717059+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-01-31T03:48:01.1717234+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: D:\TechNest\HomeWorks\LogTest\LogTest
+2024-01-31T03:48:58.4399284+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	nini message!
+2024-01-31T03:51:10.5581189+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	ini message!
+2024-01-31T03:52:17.6080739+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	i message!
+2024-01-31T03:53:13.4877907+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	ia message!
+2024-01-31T03:53:36.3312889+04:00	DBUG	[Microsoft.Extensions.Hosting.Internal.Host]	[Starting]	Hosting starting
+2024-01-31T03:53:36.4016705+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: https://localhost:7229
+2024-01-31T03:53:36.4017135+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: http://localhost:5145
+2024-01-31T03:53:36.4018087+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-01-31T03:53:36.4019734+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-01-31T03:53:36.4020069+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: D:\TechNest\HomeWorks\LogTest\LogTest
+2024-01-31T03:53:36.4020250+04:00	DBUG	[Microsoft.Extensions.Hosting.Internal.Host]	[Started]	Hosting started
+2024-01-31T03:53:50.0140544+04:00	DBUG	[Microsoft.Extensions.Hosting.Internal.Host]	[Starting]	Hosting starting
+2024-01-31T03:53:50.0787525+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: https://localhost:7229
+2024-01-31T03:53:50.0788044+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: http://localhost:5145
+2024-01-31T03:53:50.0788732+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-01-31T03:53:50.0790055+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-01-31T03:53:50.0790255+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: D:\TechNest\HomeWorks\LogTest\LogTest
+2024-01-31T03:53:50.0790435+04:00	DBUG	[Microsoft.Extensions.Hosting.Internal.Host]	[Started]	Hosting started
+2024-01-31T03:55:28.6023688+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	This is a log message!
+2024-01-31T03:56:18.2642059+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	This is a log message!
+2024-01-31T03:57:08.3885106+04:00	DBUG	[Microsoft.Extensions.Hosting.Internal.Host]	[Starting]	Hosting starting
+2024-01-31T03:57:08.4548525+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: https://localhost:7229
+2024-01-31T03:57:08.4549000+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: http://localhost:5145
+2024-01-31T03:57:08.4549666+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-01-31T03:57:08.4550967+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-01-31T03:57:08.4551176+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: D:\TechNest\HomeWorks\LogTest\LogTest
+2024-01-31T03:57:08.4551311+04:00	DBUG	[Microsoft.Extensions.Hosting.Internal.Host]	[Started]	Hosting started
+2024-01-31T03:57:16.3122645+04:00	DBUG	[Microsoft.Extensions.Hosting.Internal.Host]	[Starting]	Hosting starting
+2024-01-31T03:57:16.3710999+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: https://localhost:7229
+2024-01-31T03:57:16.3711409+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: http://localhost:5145
+2024-01-31T03:57:16.3712499+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-01-31T03:57:16.3713945+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-01-31T03:57:16.3714095+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: D:\TechNest\HomeWorks\LogTest\LogTest
+2024-01-31T03:57:16.3714235+04:00	DBUG	[Microsoft.Extensions.Hosting.Internal.Host]	[Started]	Hosting started
+2024-01-31T03:57:54.3100241+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	This is a log message!
+2024-01-31T03:58:12.0020461+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	This is a log message!
+2024-01-31T03:58:59.4743488+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: https://localhost:7229
+2024-01-31T03:58:59.4748799+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: http://localhost:5145
+2024-01-31T03:58:59.4760445+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-01-31T03:58:59.4761981+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-01-31T03:58:59.4762153+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: D:\TechNest\HomeWorks\LogTest\LogTest
+2024-01-31T03:59:05.1696588+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	This is a log message!
+2024-01-31T03:59:13.2526831+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: https://localhost:7229
+2024-01-31T03:59:13.2531742+04:00	INFO	[Microsoft.Hosting.Lifetime]	[ListeningOnAddress]	Now listening on: http://localhost:5145
+2024-01-31T03:59:13.2544816+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2024-01-31T03:59:13.2546473+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2024-01-31T03:59:13.2546636+04:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: D:\TechNest\HomeWorks\LogTest\LogTest
+2024-01-31T04:03:51.1180103+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	This is a log message!
+2024-01-31T04:04:36.1538207+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	This is a log message!
+2024-01-31T04:04:50.9672558+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	This is a log message!
+2024-01-31T04:09:20.5754150+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	This is a log message!Mehraj Mammad0v
+2024-01-31T04:10:15.1143615+04:00	INFO	[LogTest.Controllers.HomeController]	[0]	This is a log message! by: Mehraj Mammad0v
